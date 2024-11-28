@@ -1,0 +1,155 @@
+/* Banner Section */
+.banner {
+    background-image: url('./banner3.png'); /* Update with your image path */
+    background-color: #007bff;
+    display: flex;
+    color: rgb(15, 14, 14);
+    width: 100%;
+    padding-left: 60px;
+    min-width: 1520px;
+    height: 700px;
+    margin-top: 28px;
+    font-family: Verdana, sans-serif;
+  }
+  
+  .banner-content {
+    max-width: 500px;
+    margin-top: 160px;
+  }
+  
+  .banner h1 {
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .banner p {
+    font-size: 1.2rem;
+    margin-bottom: 70px;
+  }
+  
+  .get-started-btn {
+    padding: 12px 25px;
+    font-size: 1.2rem;
+    background-color: #212222;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .get-started-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Features Section */
+  .features {
+    padding: 50px 0;
+    text-align: center;
+    background-color: #f0f2f4;
+    min-width: 1520px;
+    padding: 40px;
+    border-radius: 8px;
+  }
+  
+  .features h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .feature-card h3 {
+    font-size: 1.5rem;
+  }
+  
+  .feature-card p {
+    font-size: 1rem;
+  }
+  
+  .feature-card button {
+    padding: 8px 15px;
+    background-color: #007bff;
+    color: rgb(28, 27, 27);
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .feature-card button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
+  /* Statistics Section */
+  .statistics {
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-around;
+    margin: 40px 0;
+    text-align: center;
+    height: 70px;
+    padding: 40px;
+    border-radius: 8px;
+    margin-left: 30px;
+    margin-right: 30px;
+    background: -webkit-linear-gradient(90deg, hsla(46, 73%, 75%, 1) 0%, hsla(176, 73%, 88%, 1) 100%);
+  }
+  
+  .stat-item {
+    flex: 1;
+    font-size: 18px;
+    color: #444;
+    justify-content: center;
+  }
+  
+  /* Feature Section */
+  .feature-section {
+    background-color: #f1f8ff;
+    padding: 40px;
+    border-radius: 8px;
+  }
+  
+  .feature-section h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .feature-cards {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    height: 370px;
+  }
+  
+  .feature-card {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    flex: 1;
+    text-align: center;
+  }
+  
+  .feature-images img {
+    height: 140px;
+    width: 320px;
+  }
+  
+ 
+  
+  .card-button {
+    border-radius: 5px;
+  }
+  

@@ -1,0 +1,82 @@
+
+
+
+
+
+
+/* General Footer Styling */
+#footer {
+  background: #1c1e21;
+  color: #b3b3b3;
+  font-size: 14px;
+  padding: 40px 0;
+}
+
+#footer .footer-column h5 {
+  color: #f5f5f5;
+  font-weight: bold;
+  margin-bottom: 15px;
+  border: none;
+  padding: 0;
+}
+
+#footer .footer-column ul {
+  list-style: none;
+  padding: 0;
+}
+
+#footer .footer-column ul li {
+  margin-bottom: 8px;
+}
+
+#footer .footer-column ul li a {
+  color: #b3b3b3;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+#footer .footer-column ul li a:hover {
+  color: #ffffff;
+}
+
+#footer .social-container {
+  text-align: center;
+  margin-top: 10px;
+}
+
+#footer .social-container ul.social {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+#footer .social-container ul.social li {
+  margin: 0 10px;
+}
+
+#footer .social-container ul.social li a i {
+  color: #b3b3b3;
+  font-size: 20px;
+  transition: color 0.3s;
+}
+
+#footer .social-container ul.social li a i:hover {
+  color: #ffffff;
+}
+
+#footer .footer-bottom {
+  text-align: center;
+  font-size: 12px;
+  color: #7a7a7a;
+  margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
