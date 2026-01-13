@@ -1,0 +1,10 @@
+{
+    "name": "vishesh/online-exam",
+    "description": "Online Examination System",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
